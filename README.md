@@ -16,7 +16,8 @@
 
 1. Place input files in root directory.
    Files sent with test already included.
-2.
+
+2. To run:
     ```
     node dist/mainctrl/mainctrl [inputFileName] [quantity of elevators (M)] [capacity of elevators (Q)]
     ```
@@ -24,6 +25,8 @@
     ```
     node dist/mainctrl/mainctrl input1.txt 4 10
     ```
+
+
 3. File called ```output.txt``` will be written in route directory
 
 ## Tests

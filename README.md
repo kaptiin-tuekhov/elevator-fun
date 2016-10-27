@@ -32,3 +32,8 @@
 ## Tests
 
 Jasmine framework included. ```npm test``` to run. Specs are in src alongside what they are testing
+
+## Assumptions
+
+Based on the information given, I assumed passengers getting into and out of the elevators would
+take negligible time.

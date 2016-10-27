@@ -7,7 +7,7 @@
     "init": "npm install",
     "typings": "tsd install -r -o --save-dev",
     "compile": "rm -rf dist && tsc -p src",
-    "test": "gulp tests-run"
+    "test": "jasmine"
   },
   "repository": {},
   "keywords": [],

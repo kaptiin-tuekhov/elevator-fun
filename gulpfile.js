@@ -6,7 +6,6 @@ var glob = require('glob');
 var path = require('path');
 var args = require('yargs').argv;
 var exec = require('child_process').exec;
-var browserSync = require('browser-sync');
 var tslintStylish = require('tslint-stylish');
 var gulp = require('gulp');
 var $ = require('gulp-load-plugins')({ lazy: true });

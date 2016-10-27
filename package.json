@@ -15,11 +15,8 @@
   "license": "MIT",
   "bugs": {},
   "devDependencies": {
-    "browser-sync": "^2.11.0",
-    "del": "^2.2.0",
+    "del": "^2.2.2",
     "es6-module-loader": "^0.17.10",
-    "event-stream": "^3.3.2",
-    "express": "^4.13.3",
     "glob": "^6.0.4",
     "gulp": "^3.9.0",
     "gulp-if": "^2.0.0",
@@ -39,7 +36,6 @@
     "jasmine-node": "^1.14.5",
     "jshint": "^2.8.0",
     "jshint-stylish": "^2.1.0",
-    "jspm": "^0.16.47",
     "karma": "latest",
     "karma-jasmine": "latest",
     "karma-phantomjs-launcher": "latest",
@@ -53,13 +49,5 @@
     "tslint-stylish": "^2.1.0-beta",
     "typescript": "^1.7.5",
     "yargs": "^3.31.0"
-  },
-  "jspm": {
-    "dependencies": {
-      "nodelibs": "github:jspm/nodelibs@^0.1.9"
-    },
-    "devDependencies": {
-      "typescript": "npm:typescript@^1.6.2"
-    }
   }
 }
